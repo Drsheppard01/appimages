@@ -10,4 +10,5 @@ This project used
 - https://github.com/withastro/astro  
 - https://github.com/tailwindlabs/tailwindcss
 
+## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDrsheppard01%2Fappimages.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FDrsheppard01%2Fappimages?ref=badge_large&issueType=license)
