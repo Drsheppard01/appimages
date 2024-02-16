@@ -1,3 +1,4 @@
+---
 title: "GitButler"
 meta_title: ""
 description: "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte."
