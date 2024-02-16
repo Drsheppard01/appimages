@@ -17,4 +17,4 @@ Web page: https://gitbutler.com/
 Source code: https://github.com/gitbutlerapp/gitbutler
 
 Report the bug: https://github.com/gitbutlerapp/gitbutler/issues/new/  
-Download: https://app.gitbutler.com/downloads/release/linux/x86_64/gz
+Download: https://releases.gitbutler.com/releases/release/0.10.9-630/linux/x86_64/git-butler_0.10.9_amd64.AppImage.tar.gz
