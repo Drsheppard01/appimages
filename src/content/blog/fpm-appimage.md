@@ -18,4 +18,4 @@ Source code: https://github.com/jlambert360/FPM-AppImage/
 
 Donate: https://www.patreon.com/FasterPM
 Report the bug: https://github.com/jlambert360/FPM-AppImage/issues/new  
-Download: https://github.com/jlambert360/FPM-AppImage/releases/download/v2.4.2/Faster_Project_Plus-x86-64.AppImage
+Download: https://github.com/jlambert360/FPM-AppImage/releases/download/v2.5.1/Faster_Project_Plus-x86-64.AppImage

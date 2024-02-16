@@ -19,4 +19,4 @@ Source code: https://github.com/Faster3ck/Converseen
 
 Donate: https://ko-fi.com/faster3ck
 Report the bug: https://github.com/Faster3ck/Converseen/issues/new  
-Download: https://github.com/Faster3ck/Converseen/releases/download/v0.12.0.2/Converseen-0.12.0.2-1-x86_64.AppImage
+Download: https://github.com/Faster3ck/Converseen/releases/download/v0.12.1.0/Converseen-0.12.1.0-1-x86_64.AppImage

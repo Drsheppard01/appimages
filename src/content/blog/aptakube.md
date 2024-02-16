@@ -17,4 +17,4 @@ License: EULA
 Web page: https://aptakube.com/
 
 Report the bug: https://github.com/aptakube/aptakube/issues/
-Download: https://github.com/aptakube/aptakube/releases/download/1.6.1/aptakube_1.6.1_amd64.AppImage
+Download: https://github.com/aptakube/aptakube/releases/download/1.6.2/aptakube_1.6.2_amd64.AppImage

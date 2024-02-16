@@ -19,4 +19,4 @@ Source code: https://github.com/AppFlowy-IO/AppFlowy
 
 Translate: https://inlang.com/editor/github.com/AppFlowy-IO/AppFlowy  
 Report the bug: https://github.com/AppFlowy-IO/AppFlowy/issues/new/  
-Download: https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.4.4/AppFlowy-0.4.4-linux-x86_64.AppImage
+Download: https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.4.8/AppFlowy-0.4.8-linux-x86_64.AppImage

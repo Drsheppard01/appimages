@@ -19,4 +19,4 @@ Source code: https://github.com/usebruno/bruno
 
 Donate: https://github.com/sponsors/helloanoop  
 Report the bug: https://github.com/usebruno/bruno/issues/new/  
-Download: https://github.com/usebruno/bruno/releases/download/v1.5.1/bruno_1.5.1_x86_64_linux.AppImage
+Download: https://github.com/usebruno/bruno/releases/download/v1.9.0/bruno_1.9.0_x86_64_linux.AppImage

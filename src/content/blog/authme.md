@@ -19,4 +19,4 @@ Source code: https://github.com/Levminer
 
 Donate: https://paypal.me/levminer  
 Report the bug: https://github.com/Levminer/authme/issues/new/  
-Download: https://github.com/Levminer/authme/releases/download/4.2.1/authme-4.2.1-linux-x64.appimage
+Download: https://github.com/Levminer/authme/releases/download/5.0.0/authme-5.0.0-linux-x64.appimage

@@ -18,4 +18,4 @@ Web page: https://streetpea.github.io/chiaki4deck/
 Source code: https://github.com/streetpea/chiaki4deck
 
 Report the bug: https://github.com/streetpea/chiaki4deck/issues/new  
-Download: https://github.com/streetpea/chiaki4deck/releases/download/v1.5.0/Chiaki4deck.AppImage
+Download: https://github.com/streetpea/chiaki4deck/releases/download/v1.6.3/Chiaki4deck.AppImage.zip

@@ -18,4 +18,4 @@ Source code: https://github.com/aunetx/deezer-linux
 
 Donate: https://github.com/sponsors/aunetx
 Report the bug: https://github.com/aunetx/deezer-linux/issues/new  
-Download: https://github.com/aunetx/deezer-linux/releases/download/v6.0.30-1/deezer-desktop-6.0.30-x86_64.AppImage
+Download: https://github.com/aunetx/deezer-linux/releases/download/v6.0.60-1/deezer-desktop-6.0.60-x86_64.AppImage

@@ -20,4 +20,4 @@ Source code: https://github.com/cryptomator/cryptomator
 Donate: https://github.com/sponsors/cryptomator  
 Translate: https://translate.cryptomator.org/  
 Report the bug: https://github.com/cryptomator/cryptomator/issues/new/  
-Download: https://github.com/cryptomator/cryptomator/releases/download/1.11.1/cryptomator-1.11.1-x86_64.AppImage
+Download: https://github.com/cryptomator/cryptomator/releases/download/1.12.2/cryptomator-1.12.2-aarch64.AppImage

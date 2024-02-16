@@ -20,4 +20,4 @@ Source code: https://github.com/buckets/application
 Translate: https://github.com/buckets/translations  
 Donate: https://www.patreon.com/iffy  
 Report the bug: https://github.com/buckets/application/issues/new/  
-Download: https://github.com/buckets/application/releases/download/v0.72.1/Buckets-ubuntu-22.04-amd64-0.72.1.AppImage
+Download: https://github.com/buckets/application/releases/download/v0.72.2/Buckets-ubuntu-22.04-amd64-0.72.2.AppImage

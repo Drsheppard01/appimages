@@ -19,4 +19,4 @@ Source code: https://github.com/beekeeper-studio/beekeeper-studio
 
 Donate: https://github.com/sponsors/beekeeper-studio  
 Report the bug: https://github.com/beekeeper-studio/beekeeper-studio/issues/new/  
-Download: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.0.3/Beekeeper-Studio-4.0.3.AppImage
+Download: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.1.13/Beekeeper-Studio-4.1.13.AppImage

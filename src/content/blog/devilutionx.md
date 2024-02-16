@@ -18,4 +18,4 @@ Source code: https://github.com/diasurgical/devilutionX
 
 Translate: https://github.com/diasurgical/devilutionX/wiki/Translation-Guide  
 Report the bug: https://github.com/diasurgical/devilutionX/issues/new/  
-Download: https://github.com/diasurgical/devilutionX/releases/download/1.5.1/devilutionx-linux-x86_64.appimage
+Download: https://github.com/diasurgical/devilutionX/releases/download/1.5.2/devilutionx-linux-x86_64.appimage

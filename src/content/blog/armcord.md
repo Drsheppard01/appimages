@@ -20,4 +20,4 @@ Source code: https://github.com/ArmCord/ArmCord
 Donate: https://github.com/sponsors/smartfrigde  
 Translate: https://hosted.weblate.org/projects/armcord/armcord/  
 Report the bug: https://github.com/ArmCord/ArmCord/issues/new/  
-Download: https://github.com/ArmCord/ArmCord/releases/download/v3.2.5/ArmCord-3.2.5.AppImage
+Download: https://github.com/ArmCord/ArmCord/releases/download/v3.2.6/ArmCord-3.2.6.AppImage

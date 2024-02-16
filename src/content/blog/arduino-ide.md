@@ -20,4 +20,4 @@ Source code: https://github.com/arduino/arduino-ide
 Donate: https://www.arduino.cc/en/donate/  
 Translate: https://explore.transifex.com/arduino-1/ide2/  
 Report the bug: https://github.com/arduino/arduino-ide/issues/new/  
-Download: https://github.com/arduino/arduino-ide/releases/download/2.2.1/arduino-ide_2.2.1_Linux_64bit.AppImage
+Download: https://github.com/arduino/arduino-ide/releases/download/2.3.1/arduino-ide_2.3.1_Linux_64bit.AppImage

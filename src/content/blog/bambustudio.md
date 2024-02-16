@@ -20,4 +20,4 @@ Source code: https://github.com/bambulab/BambuStudio/
 Donate: https://github.com/sponsors/adil192  
 Translate: https://github.com/saber-notes/saber?tab=readme-ov-file#translating  
 Report the bug: https://github.com/rustdesk/rustdesk/issues/new/  
-Download: https://github.com/rustdesk/rustdesk/1.2.3/rustdesk-1.2.3-x86_64.AppImage
+Download: https://github.com/rustdesk/rustdesk/releases/download/1.2.3/rustdesk-1.2.3-x86_64.AppImage

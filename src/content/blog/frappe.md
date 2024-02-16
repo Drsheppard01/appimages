@@ -19,4 +19,4 @@ Source code: https://github.com/frappe/books
 
 Translate: https://github.com/frappe/books/wiki/Contributing-Translations  
 Report the bug: https://github.com/frappe/books/issues/new/   
-Download: https://github.com/frappe/books/releases/download/v0.19.0/Frappe-Books-0.19.0.AppImage
+Download: https://github.com/frappe/books/releases/download/v0.21.2/Frappe-Books-0.21.2.AppImage

@@ -19,4 +19,4 @@ Source code: https://github.com/bitwarden/clients
 
 Translate: https://crowdin.com/project/bitwarden-desktop  
 Report the bug: https://github.com/bitwarden/clients/issues/new/  
-Download: https://github.com/bitwarden/clients/releases/download/desktop-v2023.12.1/Bitwarden-2023.12.1-x86_64.AppImage
+Download: https://github.com/bitwarden/clients/releases/download/desktop-v2024.2.0/Bitwarden-2024.2.0-x86_64.AppImage
