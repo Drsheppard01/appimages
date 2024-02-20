@@ -20,4 +20,4 @@ Source code: : https://github.com/FreeCAD/FreeCAD
 Donate: https://www.freecad.org/sponsor.php    
 Translate: https://crowdin.com/project/freecad  
 Report the bug: : https://github.com/FreeCAD/FreeCAD/issues/new/  
-Download: https://github.com/FreeCAD/FreeCAD/releases/download/0.21.1/FreeCAD_0.21.1-Linux-x86_64.AppImage
+Download: https://github.com/FreeCAD/FreeCAD/releases/download/0.21.2/FreeCAD-0.21.2-Linux-x86_64.AppImage

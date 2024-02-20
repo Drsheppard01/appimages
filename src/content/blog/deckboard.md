@@ -19,4 +19,4 @@ Source code: https://github.com/rivafarabi/deckboard
 
 Donate: https://ko-fi.com/rivafarabi
 Report the bug: https://github.com/rivafarabi/deckboard/issues/new  
-Download: https://github.com/rivafarabi/deckboard/releases/download/v3.0.0-rc4/Deckboard-3.0.0-rc4.AppImage
+Download: https://github.com/rivafarabi/deckboard/releases/download/v3.0.0-rc6/Deckboard-3.0.0-rc6.AppImage

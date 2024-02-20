@@ -19,4 +19,4 @@ Source code: https://github.com/pulsar-edit/pulsar
 
 Donate: https://opencollective.com/pulsar-edit  
 Report the bug: https://github.com/pulsar-edit/pulsar/issues/new/  
-Download: https://github.com/pulsar-edit/pulsar/releases/download/v1.112.1/Linux.Pulsar-1.112.1.AppImage
+Download: https://github.com/pulsar-edit/pulsar/releases/download/v1.114.0/Linux.Pulsar-1.114.0.AppImage

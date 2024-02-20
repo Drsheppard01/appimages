@@ -18,4 +18,4 @@ Web page: https://www.drawio.com/
 Source code: https://github.com/jgraph/drawio-desktop
 
 Report the bug: https://github.com/jgraph/drawio-desktop/issues/new/  
-Download: https://github.com/jgraph/drawio-desktop/releases/download/v23.0.2/drawio-x86_64-23.0.2.AppImage
+Download: https://github.com/jgraph/drawio-desktop/releases/download/v23.1.5/drawio-x86_64-23.1.5.AppImage

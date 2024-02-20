@@ -18,4 +18,4 @@ Web page: https://ferdium.org/
 Source code: https://github.com/ferdium/ferdium-app/
 
 Report the bug: https://github.com/ferdium/ferdium-app/issues/new  
-Download: https://github.com/ferdium/ferdium-app/releases/download/v6.7.1-nightly.19/Ferdium-linux-Portable-6.7.1-nightly.19-x86_64.AppImage
+Download: https://github.com/ferdium/ferdium-app/releases/download/v6.7.1-nightly.21/Ferdium-linux-Portable-6.7.1-nightly.21-x86_64.AppImage
