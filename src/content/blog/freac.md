@@ -4,7 +4,7 @@ meta_title: ""
 description: "Free and open source audio converter"
 date: 2023-03-05T23:51:00Z
 image: "/images/image-placeholder.png"
-categories: ["AudioVideo"]
+categories: ["Audio & Video"]
 author: "Robert Kausch"
 tags: ["official"]
 draft: false

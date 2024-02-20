@@ -18,6 +18,5 @@ Web page: https://mqttx.app/
 Source code: https://github.com/emqx/MQTTX
 
 Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
 Report the bug: https://github.com/emqx/MQTTX/issues/new  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Download: https://github.com/emqx/MQTTX/releases/download/v1.9.9/MQTTX-1.9.9.AppImage

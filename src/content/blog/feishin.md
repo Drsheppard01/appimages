@@ -4,7 +4,7 @@ meta_title: ""
 description: "A modern self-hosted music player"
 date: 2023-07-06T01:50:00Z
 image: "/images/image-placeholder.png"
-categories: ["AudioVideo"]
+categories: ["Audio & Video"]
 author: "Jeff"
 tags: ["community"]
 draft: false

@@ -4,7 +4,7 @@ meta_title: ""
 description: "Video stabilization using gyroscope data"
 date: 2023-06-31T14:29:00Z
 image: "/images/image-placeholder.png"
-categories: ["AudioVideo"]
+categories: ["Audio & Video"]
 author: "Gyroflow Team"
 tags: ["official"]
 draft: false

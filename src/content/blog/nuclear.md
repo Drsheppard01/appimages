@@ -4,7 +4,7 @@ meta_title: ""
 description: "Streaming music player that finds free music for you"
 date: 2023-08-09T10:37:00Z
 image: "/images/image-placeholder.png"
-categories: ["AudioVideo"]
+categories: ["Audio & Video"]
 author: "nukeop"
 tags: ["official"]
 draft: false

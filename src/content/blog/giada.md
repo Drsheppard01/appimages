@@ -4,7 +4,7 @@ meta_title: ""
 description: "Open source, minimalistic and hardcore music production tool"
 date: 2023-10-22T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["AudioVideo"]
+categories: ["Audio & Video"]
 author: "monocasual laboratories"
 tags: ["official"]
 draft: false

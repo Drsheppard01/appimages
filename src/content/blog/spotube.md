@@ -4,7 +4,7 @@ meta_title: ""
 description: "Open source Spotify client"
 date: 2023-12-06T13:28:00Z
 image: "/images/image-placeholder.png"
-categories: ["AudioVideo"]
+categories: ["Audio & Video"]
 author: "Kingkor Roy Tirtho"
 tags: ["official"]
 draft: false

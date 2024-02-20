@@ -4,7 +4,7 @@ meta_title: ""
 description: "Extracts audio tracks from an audio CD image to separate tracks."
 date: 2023-06-31T14:29:00Z
 image: "/images/image-placeholder.png"
-categories: ["AudioVideo"]
+categories: ["Audio & Video"]
 author: "Flacon team"
 tags: ["official"]
 draft: false

@@ -4,7 +4,7 @@ meta_title: ""
 description: "Free and Open Source Video Editor"
 date: 2023-12-06T13:28:00Z
 image: "/images/image-placeholder.png"
-categories: ["AudioVideo"]
+categories: ["Audio & Video"]
 author: "Kdenlive Team"
 tags: ["official"]
 draft: false

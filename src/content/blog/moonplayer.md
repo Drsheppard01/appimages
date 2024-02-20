@@ -4,7 +4,7 @@ meta_title: ""
 description: "All-in-One video player that can play videos from Youtube, Bilibili etc. as well as local videos."
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["AudioVideo"]
+categories: ["Audio & Video"]
 author: "Coslyk"
 tags: ["Official"]
 draft: false

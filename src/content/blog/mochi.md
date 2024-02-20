@@ -16,4 +16,4 @@ License: EULA
 
 Web page: https://mochi.cards/  
 
-Download: https://mochi.cards/releases/Mochi-1.16.5.AppImage
+Download: https://mochi.cards/releases/Mochi-1.16.8.AppImage

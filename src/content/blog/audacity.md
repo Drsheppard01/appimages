@@ -4,7 +4,7 @@ meta_title: ""
 description: "Easy-to-use, multi-track audio editor and recorder"
 date: 2023-10-16T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["AudioVideo"]
+categories: ["Audio & Video"]
 author: "Audacity Developer Team"
 tags: ["official"]
 draft: false

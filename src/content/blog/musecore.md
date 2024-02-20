@@ -4,7 +4,7 @@ meta_title: ""
 description: "MuseScore is an open source and free music notation software"
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["AudioVideo"]
+categories: ["Audio & Video"]
 author: "MuseScore BVBA"
 tags: ["official"]
 draft: false

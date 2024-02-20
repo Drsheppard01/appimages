@@ -4,7 +4,7 @@ meta_title: ""
 description: "Free, open source, cross-platform video editor"
 date: 2023-10-11T23:09:00Z
 image: "/images/image-placeholder.png"
-categories: ["AudioVideo"]
+categories: ["Audio & Video"]
 author: "Meltytech"
 tags: ["official"]
 draft: false
