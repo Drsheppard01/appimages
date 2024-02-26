@@ -1,16 +1,16 @@
 ---
-title: "Filen"
+title: "Hyper"
 meta_title: ""
-description: "Desktop client for filen.io."
+description: "A terminal built on web technologies"
 date: 2023-06-31T14:29:00Z
 image: "/images/image-placeholder.png"
-categories: ["Network"]
+categories: ["System"]
 author: "Vercel"
 tags: ["official"]
 draft: false
 ---
 
-Desktop client for filen.io
+A terminal built on web technologies
 
 License: MIT
 
