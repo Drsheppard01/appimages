@@ -18,4 +18,4 @@ Web page: https://k8slens.dev/
 Source code: https://github.com/lensapp/lens
 
 Report the bug: https://github.com/lensapp/lens/new  
-Download: https://api.k8slens.dev/binaries/Lens-2024.1.170738-latest.x86_64.AppImage
+Download: https://api.k8slens.dev/binaries/Lens-2024.1.300751-latest.x86_64.AppImage

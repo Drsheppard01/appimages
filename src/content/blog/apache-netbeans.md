@@ -19,4 +19,4 @@ Source code: https://github.com/codelerity/netbeans-installers
 
 Donate: https://github.com/sponsors/neilcsmith-net  
 Report the bug: https://github.com/codelerity/netbeans-installers/issues/new/  
-Download: https://github.com/codelerity/netbeans-installers/releases/download/v20-build1/Apache_NetBeans-20-x86_64.AppImage
+Download: https://github.com/codelerity/netbeans-installers/releases/download/v21-build1/Apache_NetBeans-21-x86_64.AppImage

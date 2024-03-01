@@ -19,4 +19,4 @@ Source code: https://github.com/nextcloud-releases/desktop/
 
 Translate: https://www.transifex.com/nextcloud/nextcloud/  
 Report the bug: https://github.com/nextcloud/desktop/issues/new/  
-Download: https://github.com/nextcloud-releases/desktop/releases/download/v3.11.1/Nextcloud-3.11.1-x86_64.AppImage
+Download: https://github.com/nextcloud-releases/desktop/releases/download/v3.11.2/Nextcloud-3.11.2-x86_64.AppImage

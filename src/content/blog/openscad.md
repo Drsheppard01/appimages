@@ -20,4 +20,4 @@ Source code: https://github.com/openscad/openscad/
 Donate: https://github.com/sponsors/openscad  
 Translate: https://wiki.documentfoundation.org/Language  
 Report the bug: https://github.com/openscad/openscad/issues/new  
-Download: https://files.openscad.org/snapshots/OpenSCAD-2024.01.26.ai18259-x86_64.AppImage
+Download: https://files.openscad.org/snapshots/OpenSCAD-2024.02.29.ai18704-x86_64.AppImage

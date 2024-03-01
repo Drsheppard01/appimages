@@ -18,4 +18,4 @@ Web page: https://desktop.github.com/
 Source code: https://github.com/shiftkey/desktop
 
 Report the bug: https://github.com/shiftkey/desktop/issues/new/   
-Download: https://github.com/shiftkey/desktop/releases/download/release-3.3.6-linux3/GitHubDesktop-linux-x86_64-3.3.6-linux3.AppImage
+Download: https://github.com/shiftkey/desktop/releases/download/release-3.3.8-linux2/GitHubDesktop-linux-x86_64-3.3.8-linux2.AppImage

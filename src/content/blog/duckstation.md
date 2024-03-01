@@ -18,4 +18,4 @@ Web page: https://www.duckstation.org/
 Source code: https://github.com/stenzek/duckstation
 
 Report the bug: https://github.com/stenzek/duckstation/issues/new/  
-Download: https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage
+Download: https://github.com/stenzek/duckstation/releases/download/preview/DuckStation-x64.AppImage

@@ -19,4 +19,4 @@ Source code: https://github.com/ONLYOFFICE/DesktopEditorss
 
 Translate: https://helpcenter.onlyoffice.com/guides/become-translator.aspx
 Report the bug: https://github.com/ONLYOFFICE/DesktopEditors/issues/new/  
-Download: https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors-x86_64.AppImage
+Download: https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v8.0.0/DesktopEditors-x86_64.AppImage

@@ -19,4 +19,4 @@ Source code: https://github.com/flareteam/flare-game/
 
 Translate: https://explore.transifex.com/flareorg/
 Report the bug: https://github.com/flareteam/flare-game/issues/new/   
-Download: https://github.com/fontforge/fontforge/releases/download/20230101/FontForge-2023-01-01-a1dad3e-x86_64.AppImage
+Download: https://github.com/flareteam/flare-game/releases/download/v1.14/flare-linux64-v1.14.AppImage

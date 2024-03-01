@@ -19,4 +19,4 @@ Source code: https://github.com/streetwriters/notesnook
 
 Donate: https://opencollective.com/notesnook
 Report the bug: https://github.com/streetwriters/notesnook/issues/new/  
-Download: https://github.com/streetwriters/notesnook/releases/download/v2.6.14/notesnook_linux_x86_64.AppImage
+Download: https://github.com/streetwriters/notesnook/releases/download/v3.0.4-beta/notesnook_linux_x86_64.AppImage

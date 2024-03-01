@@ -20,4 +20,4 @@ Source code: https://github.com/Ultimaker/Cura
 Donate: https://github.com/sponsors/Ultimaker    
 Translate: https://github.com/Ultimaker/Cura/wiki/Translating-Cura  
 Report the bug: https://github.com/Ultimaker/Cura/issues/new/    
-Download: https://github.com/Ultimaker/Cura/releases/download/5.6.0/UltiMaker-Cura-5.6.0-linux-X64.AppImage
+Download: https://github.com/Ultimaker/Cura/releases/download/5.7.0-alpha.0/UltiMaker-Cura-5.7.0-alpha.0-linux-X64.AppImage

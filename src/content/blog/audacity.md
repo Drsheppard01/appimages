@@ -19,4 +19,4 @@ Source code: https://github.com/audacity/audacity
 
 Translate: https://explore.transifex.com/klyok/audacity/  
 Report the bug: https://github.com/audacity/audacity/issues/new/  
-Download: https://github.com/audacity/audacity/releases/download/Audacity-3.4.2/audacity-linux-3.4.2-x64.AppImage
+Download: https://github.com/audacity/audacity/releases/download/Audacity-3.5.0-beta/audacity-linux-3.5.0-beta-x64.AppImage

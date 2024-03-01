@@ -19,4 +19,4 @@ Source code: https://github.com/nanu-c/axolotl
 Donate: https://patreon.com/nanuc  
 Translate: https://github.com/nanu-c/axolotl/blob/main/docs/TRANSLATE.md  
 Report the bug: https://github.com/nanu-c/axolotl/issues/new/  
-Download: https://github.com/nanu-c/axolotl/releases/download/v1.6.0/Axolotl-x86_64.AppImage
+Download: https://github.com/nanu-c/axolotl/releases/download/v2.0.1/axolotl_2.0.1_amd64.AppImage

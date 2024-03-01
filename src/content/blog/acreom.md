@@ -17,4 +17,4 @@ License: EULA
 Web page: https://acreom.com/
 
 Report the bug: https://github.com/Acreom/releases/issues/new/  
-Download: https://github.com/Acreom/releases/releases/download/v1.15.12/acreom-1.15.12.AppImage
+Download: https://github.com/Acreom/releases/releases/download/v1.16.0/acreom-1.16.0.AppImage

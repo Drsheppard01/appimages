@@ -19,4 +19,4 @@ Source code: https://github.com/ppy/osu/
 
 Donate: https://github.com/sponsors/ppy  
 Report the bug: https://github.com/ppy/osu/issues/new  
-Download: https://github.com/ppy/osu/releases/download/2024.131.0/osu.AppImage
+Download: https://github.com/ppy/osu/releases/download/2024.221.0/osu.AppImage

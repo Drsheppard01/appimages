@@ -18,4 +18,4 @@ Web page: https://onekeepass.github.io/
 Source code: https://github.com/OneKeePass/desktop
 
 Report the bug: https://github.com/OneKeePass/desktop/issues/new/  
-Download: https://github.com/OneKeePass/desktop/releases/download/v0.10.0/OneKeePass_0.10.0_linux_x86_64.AppImage
+Download: https://github.com/OneKeePass/desktop/releases/download/v0.11.0/OneKeePass_0.11.0_linux_x86_64.AppImage

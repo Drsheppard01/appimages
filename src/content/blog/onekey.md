@@ -18,4 +18,4 @@ Web page: https://www.onekey.so/
 Source code: https://github.com/OneKeyHQ/app-monorepo
 
 Report the bug: https://github.com/OneKeyHQ/app-monorepo/issues/new  
-Download: https://github.com/OneKeyHQ/app-monorepo/releases/download/v4.19.0/OneKey-Wallet-4.19.0-linux-x86_64.AppImage
+Download: https://github.com/OneKeyHQ/app-monorepo/releases/download/v4.20.0/OneKey-Wallet-4.20.0-linux-x86_64.AppImage

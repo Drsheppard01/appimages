@@ -18,4 +18,4 @@ Web page: https://www.leocad.org/
 Source code: https://github.com/leozide/leocad
 
 Report the bug: https://github.com/leozide/leocad/issues/new/  
-Download: https://github.com/leozide/leocad/releases/download/v23.03/LeoCAD-Linux-23.03-x86_64.AppImage
+Download: https://github.com/leozide/leocad/releases/download/continuous/LeoCAD-Linux-45ab8e8d-x86_64.AppImage

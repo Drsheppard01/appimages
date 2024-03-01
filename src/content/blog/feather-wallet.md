@@ -18,4 +18,4 @@ Web page: https://featherwallet.org/
 Source code: https://github.com/feather-wallet/feather
 
 Report the bug: https://github.com/feather-wallet/feather/issues/new  
-Download: https://featherwallet.org/files/releases/linux-appimage/feather-2.6.2.AppImage
+Download: https://featherwallet.org/files/releases/linux-appimage/feather-2.6.3.AppImage

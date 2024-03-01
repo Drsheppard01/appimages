@@ -19,4 +19,4 @@ Source code: https://github.com/4ian/GDevelop
 
 Translate: https://crowdin.com/project/gdevelop/  
 Report the bug: https://github.com/4ian/GDevelop/issues/new/  
-Download: https://github.com/4ian/GDevelop/releases/download/v5.3.186/GDevelop-5-5.3.186.AppImage
+Download: https://github.com/4ian/GDevelop/releases/download/v5.3.192/GDevelop-5-5.3.192.AppImage

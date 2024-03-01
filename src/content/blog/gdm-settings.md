@@ -20,4 +20,4 @@ Source code: https://github.com/gdm-settings/gdm-settings
 Donate: https://buymeacoffee.com/mazharhussain  
 Translate: https://hosted.weblate.org/engage/gdm-settings/  
 Report the bug: https://github.com/gdm-settings/gdm-settings/issues/new/  
-Download: https://github.com/gdm-settings/gdm-settings/releases/download/v4.1/GDM_Settings.AppImage
+Download: https://github.com/gdm-settings/gdm-settings/releases/download/v4.3/GDM_Settings.AppImage

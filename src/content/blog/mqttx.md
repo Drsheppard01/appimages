@@ -17,6 +17,5 @@ License: Apache-2.0
 Web page: https://mqttx.app/  
 Source code: https://github.com/emqx/MQTTX
 
-Donate: https://www.libreoffice.org/donate/  
 Report the bug: https://github.com/emqx/MQTTX/issues/new  
 Download: https://github.com/emqx/MQTTX/releases/download/v1.9.9/MQTTX-1.9.9.AppImage

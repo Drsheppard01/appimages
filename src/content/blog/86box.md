@@ -19,4 +19,4 @@ Source code: https://github.com/86Box/86Box
 
 Donate: https://www.paypal.com/paypalme/86Box  
 Report the bug: https://github.com/86Box/86Box/issues/new/  
-Download: https://github.com/86Box/86Box/releases/download/v4.0.1/86Box-Linux-x86_64-b5111.AppImage
+Download: https://github.com/86Box/86Box/releases/download/v4.1/86Box-Linux-x86_64-b5555.AppImage

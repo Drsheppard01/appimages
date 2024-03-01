@@ -19,4 +19,4 @@ Source code: https://github.com/brndnmtthws/conky/
 
 Donate: https://github.com/sponsors/brndnmtthws
 Report the bug: https://github.com/brndnmtthws/conky/issues/new  
-Download: https://github.com/brndnmtthws/conky/releases/download/v1.19.6/conky-x86_64.AppImage
+Download: https://github.com/brndnmtthws/conky/releases/download/v1.19.8/conky-x86_64.AppImage

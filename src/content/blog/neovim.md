@@ -19,4 +19,4 @@ Source code: https://github.com/neovim/neovim
 
 Donate: https://github.com/sponsors/neovim  
 Report the bug: https://github.com/neovim/neovim/issues/new  
-Download: https://github.com/neovim/neovim/releases/download/v0.9.5/nvim.appimage
+Download: https://github.com/neovim/neovim/releases/download/nightly/nvim.appimage

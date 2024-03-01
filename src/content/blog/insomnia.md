@@ -18,4 +18,4 @@ Web page: https://insomnia.rest/
 Source code: https://github.com/Kong/insomnia
 
 Report the bug: https://github.com/Kong/insomnia/issues  
-Download: https://github.com/Kong/insomnia/releases/download/core%408.5.1/Insomnia.Core-8.5.1.AppImage
+Download: https://github.com/Kong/insomnia/releases/download/core%408.6.1/Insomnia.Core-8.6.1.AppImage

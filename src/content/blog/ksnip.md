@@ -19,4 +19,4 @@ Source code: https://github.com/ksnip/ksnip
 Donate: https://github.com/sponsors/DamirPorobic
 Translate: https://hosted.weblate.org/engage/ksnip/
 Report the bug: https://github.com/ksnip/ksnip/issues/new/  
-Download: https://github.com/ksnip/ksnip/releases/download/v1.10.1/ksnip-1.10.1-x86_64.AppImage
+Download: https://github.com/ksnip/ksnip/releases/download/continuous/ksnip-1.11.0-continuous-x86_64.AppImage

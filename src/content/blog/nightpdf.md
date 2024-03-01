@@ -17,4 +17,4 @@ License: GPL-2.0
 Source code: https://github.com/Lunarequest/NightPDF
 
 Report the bug: https://github.com/Lunarequest/NightPDF/issues/new  
-Download: https://github.com/Lunarequest/NightPDF/releases/download/v3.0.0-beta2/NightPDF-3.0.0-beta2-x86_64.AppImage
+Download: https://github.com/Lunarequest/NightPDF/releases/download/v3.0.0-beta3/NightPDF-3.0.0-beta3-x86_64.AppImage

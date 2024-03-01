@@ -19,4 +19,4 @@ Source code: https://git.cinelerra-gg.org/git/
 
 Translate: https://www.cinelerra-gg.org/translate-app/  
 Report the bug: https://www.cinelerra-gg.org/bugtracker/login_page.php  
-Download: https://cinelerra-gg.org/download/images/CinGG-20240131-x86_64.AppImage
+Download: https://cinelerra-gg.org/download/images/CinGG-20240229-x86_64-multibit.AppImage

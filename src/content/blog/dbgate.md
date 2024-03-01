@@ -19,4 +19,4 @@ Source code: https://github.com/dbgate/dbgate
 
 Donate: https://github.com/sponsors/dbgate  
 Report the bug: https://github.com/dbgate/dbgate/issues/new/  
-Download: https://github.com/dbgate/dbgate/releases/download/v5.2.8-beta.6/dbgate-5.2.8-beta.6-linux_x86_64.AppImage
+Download: https://github.com/dbgate/dbgate/releases/download/v5.2.8-beta.9/dbgate-5.2.8-beta.9-linux_x86_64.AppImage

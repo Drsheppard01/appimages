@@ -20,4 +20,4 @@ Source code: https://github.com/LibreCAD/LibreCAD
 Donate: https://github.com/sponsors/LibreCAD  
 Translate: https://translate.librecad.org/  
 Report the bug: https://bugs.documentfoundation.org/  
-Download: https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-329-g06015358-x86_64.AppImage
+Download: https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-343-g8315b1d6-x86_64.AppImage

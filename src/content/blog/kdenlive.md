@@ -20,4 +20,4 @@ Source code: https://invent.kde.org/multimedia/kdenlive
 Donate: https://kdenlive.org/en/fund/  
 Translate: https://l10n.kde.org/  
 Report the bug: https://invent.kde.org/multimedia/kdenlive/-/issues/new  
-Download: https://download.kde.org/stable/kdenlive/23.08/linux/kdenlive-23.08.4-x86_64-A.AppImage
+Download: https://download.kde.org/stable/kdenlive/23.08/linux/kdenlive-23.08.5-x86_64.AppImage

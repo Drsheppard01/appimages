@@ -20,4 +20,4 @@ Source code: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
 Donate: https://patreon.com/heroicgameslauncher  
 Translate: https://hosted.weblate.org/projects/heroic-games-launcher/  
 Report the bug: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/issues/new/  
-Download: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.11.0/Heroic-2.11.0.AppImage
+Download: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.13.0/Heroic-2.13.0.AppImage

@@ -20,4 +20,4 @@ Source code: https://github.com/laurent22/joplin
 Donate: https://github.com/sponsors/laurent22  
 Translate: https://joplinapp.org/help/dev/localisation/  
 Report the bug: https://github.com/laurent22/joplin/issues/new/  
-Download: https://github.com/laurent22/joplin/releases/download/v2.14.10/Joplin-2.14.10.AppImage
+Download: https://github.com/laurent22/joplin/releases/download/v2.14.16/Joplin-2.14.16.AppImage

@@ -20,4 +20,4 @@ Source code: https://gitlab.linphone.org/BC/public/linphone-desktop
 Donate: https://www.libreoffice.org/donate/  
 Translate: https://weblate.linphone.org/projects/linphone-desktop/  
 Report the bug: https://gitlab.linphone.org/BC/public/linphone-desktop/-/issues/new  
-Download: https://download.linphone.org/releases/linux/app/Linphone-5.2.0.AppImage
+Download: https://download.linphone.org/releases/linux/app/Linphone-5.2.1.AppImage

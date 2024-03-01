@@ -1,23 +1,19 @@
 ---
-title: "LibreOffice"
+title: "Mendeley"
 meta_title: ""
-description: "Free open source office suite"
+description: "Mendeley Reference Manager simplifies your workflow, so you can focus on achieving your goals"
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+author: "Elsevier"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Mendeley Reference Manager simplifies your workflow, so you can focus on achieving your goals
 
-License: GPL-3.0
+License: EULA
 
-Web page: https://www.libreoffice.org/  
-Source code: https://github.com/LibreOffice/core
+Web page: https://www.mendeley.com/  
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Download: https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.110.2-x86_64.AppImage

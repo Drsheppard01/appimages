@@ -18,4 +18,4 @@ Web page: https://www.gams.com/
 Source code: https://github.com/GAMS-dev/studio
 
 Report the bug: https://github.com/GAMS-dev/studio/issues/new/  
-Download: https://github.com/GAMS-dev/studio/releases/download/v1.16.4/GAMS_Studio-1.16.4-x86_64.AppImage
+Download: https://github.com/GAMS-dev/studio/releases/download/v1.17.3/GAMS_Studio-1.17.3-x86_64.AppImage

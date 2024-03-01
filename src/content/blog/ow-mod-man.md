@@ -19,4 +19,4 @@ Source code: https://github.com/ow-mods/ow-mod-man
 
 Translate: https://github.com/ow-mods/ow-mod-man/blob/main/owmods_gui/TRANSLATIONS.md  
 Report the bug: https://github.com/ow-mods/ow-mod-man/issues/new  
-Download: https://github.com/ow-mods/ow-mod-man/releases/download/gui_v0.12.0/outer-wilds-mod-manager_0.12.0_amd64.AppImage
+Download: https://github.com/ow-mods/ow-mod-man/releases/download/gui_v0.12.2/outer-wilds-mod-manager_0.12.2_amd64.AppImage

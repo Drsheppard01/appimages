@@ -20,4 +20,4 @@ Source code: https://github.com/FreeTubeApp/FreeTube
 Donate: https://liberapay.com/FreeTube  
 Translate: https://hosted.weblate.org/engage/free-tube/  
 Report the bug: https://github.com/FreeTubeApp/FreeTube/issues/new/   
-Download: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.19.1-beta/freetube_0.19.1_amd64.AppImage
+Download: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.19.2-beta/freetube_0.19.2_amd64.AppImage

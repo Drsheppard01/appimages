@@ -1,23 +1,21 @@
 ---
-title: "Saber"
+title: "Bambu Studio"
 meta_title: ""
-description: "Cross-platform libre handwritten notes app"
+description: "Bambu Studio is an open-source, cutting-edge, feature-rich slicing software"
 date: 2023-12-06T13:28:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "Adil Hanney"
+categories: ["Graphics"]
+author: "Bambu Lab"
 tags: ["official"]
 draft: false
 ---
 
-Cross-platform libre handwritten notes app
+Bambu Studio is an open-source, cutting-edge, feature-rich slicing software
 
-License: GPL-3.0
+License: AGPL-3.0
 
-Web page: https://saber.adil.hanney.org/  
+Web page: https://bambulab.com/en/download/studio  
 Source code: https://github.com/bambulab/BambuStudio/
 
-Donate: https://github.com/sponsors/adil192  
-Translate: https://github.com/saber-notes/saber?tab=readme-ov-file#translating  
-Report the bug: https://github.com/rustdesk/rustdesk/issues/new/  
-Download: https://github.com/rustdesk/rustdesk/releases/download/1.2.3/rustdesk-1.2.3-x86_64.AppImage
+Report the bug: https://github.com/bambulab/BambuStudio/issues/new/  
+Download: https://github.com/bambulab/BambuStudio/releases/download/v01.08.04.51/BambuStudio_linux_fedora_v01.08.04.51_20240117.AppImage

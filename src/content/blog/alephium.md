@@ -18,4 +18,4 @@ Web page: https://alephium.org/
 Source code: https://github.com/alephium/alephium-frontend
 
 Report the bug: https://github.com/alephium/alephium-frontend/issues/new/  
-Download: https://github.com/alephium/alephium-frontend/releases/download/alephium-desktop-wallet%402.2.2/Alephium-2.2.2.AppImage
+Download: https://github.com/alephium/alephium-frontend/releases/download/v2.2.3-rc.1/Alephium-2.2.3-rc.1.AppImage

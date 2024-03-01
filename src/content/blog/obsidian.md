@@ -17,4 +17,4 @@ License: EULA
 Web page: https://obsidian.md/
 
 Translate: https://github.com/obsidianmd/obsidian-translations
-Download: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/Obsidian-1.5.3.AppImage
+Download: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/Obsidian-1.5.8.AppImage

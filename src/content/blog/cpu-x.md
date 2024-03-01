@@ -19,4 +19,4 @@ Source code: https://github.com/TheTumultuousUnicornOfDarkness/CPU-X
 
 Translate: https://hosted.weblate.org/engage/cpu-x/?utm_source=widget
 Report the bug: https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/issues/new/  
-Download: https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/v5.0.3/CPU-X-5.0.3-x86_64.AppImage
+Download: https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/releases/download/continuous/CPU-X-x86_64.AppImage
