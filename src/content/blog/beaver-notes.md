@@ -1,3 +1,4 @@
+---
 title: "Beaver Notes"
 meta_title: ""
 description: "Privacy-focused note-taking application"
