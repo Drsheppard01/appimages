@@ -10,8 +10,8 @@
     "build": "bun generate-json && astro build",
     "preview": "astro preview",
     "format": "prettier -w ./src",
-    "generate-json": "node scripts/jsonGenerator.js",
-    "remove-darkmode": "node scripts/removeDarkmode.js && bun format"
+    "generate-json": "bun scripts/jsonGenerator.js",
+    "remove-darkmode": "bun scripts/removeDarkmode.js && bun format"
   },
   "dependencies": {
     "@astrojs/mdx": "^2.2.0",
