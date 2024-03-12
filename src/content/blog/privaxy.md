@@ -2,7 +2,7 @@
 title: "Privaxy"
 meta_title: ""
 description: "Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic."
-date: 2023-12-07T22:52:00Z
+date: 2023-01-28T02:27:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 author: "Pierre Barre"

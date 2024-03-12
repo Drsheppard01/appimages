@@ -2,7 +2,7 @@
 title: "Story Architect"
 meta_title: ""
 description: "All in one screenwriting app"
-date: 2023-12-04T13:28:00Z
+date: 2024-03-05T07:29:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 author: "Story Apps"
@@ -19,4 +19,4 @@ Source code:  https://github.com/story-apps/starc
 
 Translate: https://www.transifex.com/story-apps/starc/  
 Report the bug: https://github.com/story-apps/starcdownload/issues/new/  
-Download: https://github.com/story-apps/starc/releases/download/v0.6.4/starc-setup.AppImage
+Download: https://github.com/story-apps/starc/releases/download/v0.7.0/starc-setup.AppImage

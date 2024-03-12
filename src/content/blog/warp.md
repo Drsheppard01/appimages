@@ -2,7 +2,7 @@
 title: "Warp"
 meta_title: ""
 description: "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster"
-date: 2023-06-31T14:29:00Z
+date: 2024-03-05T14:29:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
 author: "Warp"
@@ -17,4 +17,4 @@ License: EULA
 Web page: https://www.warp.dev/  
 
 Report the bug: https://github.com/warpdotdev/Warp/issues   
-Download: https://releases.warp.dev/stable/v0.2024.02.20.08.01.stable_02/Warp-x86_64.AppImage
+Download: https://releases.warp.dev/stable/v0.2024.03.05.08.02.stable_01/Warp-x86_64.AppImage

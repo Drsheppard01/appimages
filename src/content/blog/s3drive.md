@@ -2,7 +2,7 @@
 title: "S3Drive"
 meta_title: ""
 description: "Zero Knowledge E2E encrypted storage compatible with multiple providers"
-date: 2024-01-27T22:52:00Z
+date: 2024-02-28T14:02:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
 author: "S3Drive"
@@ -15,7 +15,6 @@ Zero Knowledge E2E encrypted storage compatible with multiple providers
 License: EULA
 
 Web page: https://s3drive.app/  
-Source code: https://github.com/s3drive/appimage-app/
 
 Report the bug: https://github.com/s3drive/app/issues/new/  
-Download: https://github.com/s3drive/appimage-app/releases/latest/download/S3Drive-x86_64.AppImages
+Download: https://github.com/s3drive/appimage-app/releases/download/1.7.16/S3Drive-x86_64.AppImage

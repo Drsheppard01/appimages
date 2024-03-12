@@ -2,7 +2,7 @@
 title: "Pulsar"
 meta_title: ""
 description: "A Community-led Hyper-Hackable Text Editor"
-date: 2023-12-19T09:35:00Z
+date: 2024-02-16T10:14:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 author: "Pulsar-Edit Original work"

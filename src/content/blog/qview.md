@@ -2,7 +2,7 @@
 title: "qView"
 meta_title: ""
 description: "Practical and minimal image viewer"
-date: 2023-10-11T23:09:00Z
+date: 2023-08-16T16:57:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 author: "Benjamin O"

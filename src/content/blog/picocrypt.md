@@ -2,7 +2,7 @@
 title: "Picocrypt"
 meta_title: ""
 description: "Picocrypt is a very small (hence Pico), very simple, yet very secure encryption tool that you can use to protect your files"
-date: 2023-12-07T22:52:00Z
+date: 2023-06-28T06:35:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
 author: "Evan Su"

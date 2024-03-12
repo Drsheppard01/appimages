@@ -1,8 +1,8 @@
 ---
-title: "Session"
+title: "SchildiChat"
 meta_title: ""
 description: "Matrix client / Element Desktop fork."
-date: 2023-10-16T22:52:00Z
+date: 2024-02-26T21:57:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 author: "SchildiChat"

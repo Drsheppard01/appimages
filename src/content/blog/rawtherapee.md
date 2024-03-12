@@ -2,7 +2,7 @@
 title: "RawTherapee"
 meta_title: ""
 description: "RawTherapee is a free, cross-platform raw image processing program"
-date: 2023-10-16T22:52:00Z
+date: 2024-02-16T09:19:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 author: "The RawTherapee Team"

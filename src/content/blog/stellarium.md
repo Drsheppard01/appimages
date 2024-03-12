@@ -2,7 +2,7 @@
 title: "Stellarium"
 meta_title: ""
 description: "Stellarium is a free open source planetarium for your computer."
-date: 2023-08-20T13:04:00Z
+date: 2023-12-23T14:43:00Z
 image: "/images/image-placeholder.png"
 categories: ["Science"]
 author: "Stellarium contributors"

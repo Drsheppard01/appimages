@@ -2,7 +2,7 @@
 title: "Wezterm"
 meta_title: ""
 description: "GPU-accelerated cross-platform terminal emulator and multiplexer"
-date: 2023-07-12T22:52:00Z
+date: 2024-02-03T21:32:00Z
 image: "/images/image-placeholder.png"
 categories: ["Utilities"]
 author: "Wez Furlong"
@@ -19,4 +19,4 @@ Source code: https://github.com/wez/wezterm
 
 Donate: https://patreon.com/WezFurlong  
 Report the bug: https://github.com/wez/wezterm/issues/new/  
-Download: https://github.com/wez/wezterm/releases/download/20230712-072601-f4abf8fd/WezTerm-20230712-072601-f4abf8fd-Ubuntu20.04.AppImage
+Download: https://github.com/wez/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage
