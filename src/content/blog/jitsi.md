@@ -2,7 +2,7 @@
 title: "Jitsi Meet"
 meta_title: ""
 description: "Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
-date: 2024-01-13T18:56:00Z
+date: 2024-03-10T22:04:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 author: "Jitsi team"
@@ -19,4 +19,4 @@ Source code: https://github.com/jitsi/jitsi-meet-electron
 
 Translate: https://github.com/jitsi/jitsi-meet-electron/blob/master/app/i18n/lang  
 Report the bug: https://github.com/jitsi/jitsi-meet-electron/issues/new/  
-Download: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2024.1.0/jitsi-meet-x86_64.AppImage
+Download: https://github.com/jitsi/jitsi-meet-electron/releases/download/v2024.3.0/jitsi-meet-x86_64.AppImage

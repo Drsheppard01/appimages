@@ -2,7 +2,7 @@
 title: "Miru"
 meta_title: ""
 description: "Stream anime torrents, real-time with no waiting for downloads"
-date: 2023-12-07T22:52:00Z
+date: 2024-01-21T01:35:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 author: "Cas"

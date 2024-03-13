@@ -2,7 +2,7 @@
 title: "Insomnia"
 meta_title: ""
 description: "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC"
-date: 2023-12-08T15:41:00Z
+date: 2024-02-06T15:41:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 author: "Kong"

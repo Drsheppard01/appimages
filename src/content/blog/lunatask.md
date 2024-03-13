@@ -2,7 +2,7 @@
 title: "Lunatask"
 meta_title: ""
 description: "All-in-one encrypted to-do list, habit and mood tracker, journaling and notes app"
-date: 2023-12-07T22:52:00Z
+date: 2023-12-30T20:23:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 author: "Michal Krejci"

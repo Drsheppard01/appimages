@@ -2,7 +2,7 @@
 title: "Motrix"
 meta_title: ""
 description: "Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc"
-date: 2023-12-07T22:52:00Z
+date: 2023-05-03T10:13:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 author: "Dr_rOot"

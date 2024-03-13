@@ -2,7 +2,7 @@
 title: "MQTTX"
 meta_title: ""
 description: "MQTTX is a cross-platform MQTT 5.0 client tool open sourced by EMQ, which can run on macOS, Linux and Windows, and supports formatting MQTT payload."
-date: 2023-12-28T22:52:00Z
+date: 2024-02-05T06:21:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 author: "EMQX Team"

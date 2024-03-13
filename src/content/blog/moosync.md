@@ -2,7 +2,7 @@
 title: "Moosync"
 meta_title: ""
 description: "Music player capable of playing local audio or from Youtube, Spotify and many more"
-date: 2024-01-24T11:45:00Z
+date: 2024-01-31T09:34:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 author: "Sahil Gupte"

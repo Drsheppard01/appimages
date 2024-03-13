@@ -2,7 +2,7 @@
 title: "Mochi"
 meta_title: ""
 description: "Take notes and make flashcards using markdown, then study them using spaced repetition."
-date: 2023-11-13T00:00:00Z
+date: 2024-02-11T00:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 author: "Mochi Cards"

@@ -2,7 +2,7 @@
 title: "Localsend"
 meta_title: ""
 description: "Open source cross-platform alternative to AirDrop"
-date: 2023-10-16T22:52:00Z
+date: 2024-02-26T19:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 author: "Tien Do Nam"

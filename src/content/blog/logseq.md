@@ -2,7 +2,7 @@
 title: "Logseq"
 meta_title: ""
 description: "A privacy-first, open-source platform for knowledge management and collaboration"
-date: 2023-12-26T16:09:00Z
+date: 2024-02-29T19:32:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 author: "Logseq"

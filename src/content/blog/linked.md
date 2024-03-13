@@ -2,7 +2,7 @@
 title: "linked"
 meta_title: ""
 description: "Daily journaling without distraction"
-date: 2023-12-07T22:52:00Z
+date: 2023-06-29T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 author: "André Weller"

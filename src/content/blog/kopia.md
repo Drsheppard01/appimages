@@ -2,7 +2,7 @@
 title: "KopiaUI"
 meta_title: ""
 description: "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included."
-date: 2023-12-18T08:17:00Z
+date: 2023-10-22T06:20:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 author: "Kopia Authors"

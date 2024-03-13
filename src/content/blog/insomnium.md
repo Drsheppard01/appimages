@@ -2,7 +2,7 @@
 title: "Insomnium"
 meta_title: ""
 description: "Insomnium is a 100% local and privacy-focus open-source API client for testing GraphQL, REST, WebSockets, Server-sent events and gRPC in development/production"
-date: 2023-12-08T15:41:00Z
+date: 2023-10-30T15:41:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 author: "ArchGPT"
