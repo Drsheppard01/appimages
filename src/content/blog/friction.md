@@ -2,7 +2,7 @@
 title: "Friction"
 meta_title: ""
 description: "Powerful and versatile free and open-source motion graphics application."
-date: 2023-12-17T19:02:00Z
+date: 2023-12-24T11:50:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 author: "Friction contributors"

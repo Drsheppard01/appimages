@@ -2,7 +2,7 @@
 title: "Frappe"
 meta_title: ""
 description: "Simple, well-designed, free desktop accounting software for freelancers and small businesses"
-date: 2023-10-11T23:09:00Z
+date: 2024-02-12T03:23:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 author: "Frappe Technologies"

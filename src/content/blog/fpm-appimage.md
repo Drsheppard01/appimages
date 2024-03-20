@@ -2,7 +2,7 @@
 title: "Faster_Project_Plus"
 meta_title: ""
 description: "Ishiiruka fork for Super Smash Bros. Brawl"
-date: 2023-07-06T01:50:00Z
+date: 2024-03-06T23:44:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 author: "Jordan Lambert"
@@ -18,4 +18,4 @@ Source code: https://github.com/jlambert360/FPM-AppImage/
 
 Donate: https://www.patreon.com/FasterPM
 Report the bug: https://github.com/jlambert360/FPM-AppImage/issues/new  
-Download: https://github.com/jlambert360/FPM-AppImage/releases/download/v2.5.1/Faster_Project_Plus-x86-64.AppImage
+Download: https://github.com/jlambert360/FPM-AppImage/releases/download/v2.5.2/Faster_Project_Plus-x86-64.AppImage

@@ -2,7 +2,7 @@
 title: "Feishin"
 meta_title: ""
 description: "A modern self-hosted music player"
-date: 2023-07-06T01:50:00Z
+date: 2024-03-13T10:27:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 author: "Jeff"
