@@ -2,11 +2,11 @@
 title: "Feather"
 meta_title: ""
 description: "A free and open-source Monero desktop wallet"
-date: 2023-07-06T01:50:00Z
+date: 2024-03-19T19:56:00Z
 image: "/images/image-placeholder.png"
-categories: ["Games"]
+categories: ["Finance"]
 author: "Feather Wallet"
-tags: ["community"]
+tags: ["official"]
 draft: false
 ---
 
@@ -18,4 +18,4 @@ Web page: https://featherwallet.org/
 Source code: https://github.com/feather-wallet/feather
 
 Report the bug: https://github.com/feather-wallet/feather/issues/new  
-Download: https://featherwallet.org/files/releases/linux-appimage/feather-2.6.3.AppImage
+Download: https://featherwallet.org/files/releases/linux-appimage/feather-2.6.5.AppImage

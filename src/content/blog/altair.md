@@ -2,7 +2,7 @@
 title: "Altair"
 meta_title: ""
 description: "A beautiful feature-rich GraphQL Client"
-date: 2023-12-27T14:14:00Z
+date: 2024-03-03T02:05:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 author: "Samuel Imolorhe"
@@ -20,4 +20,4 @@ Source code: https://github.com/altair-graphql/altair
 Donate: https://opencollective.com/altair  
 Translate: https://crwd.in/altair-gql  
 Report the bug: https://github.com/altair-graphql/altair/issues/new/  
-Download: https://github.com/altair-graphql/altair/releases/download/v6.3.0/altair_6.3.0_x86_64_linux.AppImage
+Download: https://github.com/altair-graphql/altair/releases/download/v6.3.1/altair_6.3.1_x86_64_linux.AppImage

@@ -19,4 +19,4 @@ Source code: https://github.com/jeffvli/feishin/
 Donate: https://ko-fi.com/jeffvli
 Translate: https://hosted.weblate.org/projects/feishin/
 Report the bug: https://github.com/jeffvli/feishin/issues/new  
-Download: https://github.com/jeffvli/feishin/releases/download/v0.5.3/Feishin-0.5.3-linux-x86_64.AppImage
+Download: https://github.com/jeffvli/feishin/releases/download/v0.6.1/Feishin-0.6.1-linux-x86_64.AppImage

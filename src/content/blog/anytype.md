@@ -2,7 +2,7 @@
 title: "Anytype"
 meta_title: ""
 description: "Anytype is a personal knowledge base, a digital brain that allows you to quickly capture, describe, and connect information"
-date: 2024-03-11T17:43:00Z
+date: 2024-03-18T19:22:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 author: "Anytype"
@@ -19,4 +19,4 @@ Source code: https://github.com/anyproto/anytype-ts/
 
 Translate: https://crowdin.com/project/anytype-desktop  
 Report the bug: https://github.com/anyproto/anytype-ts//issues/new/  
-Download: https://github.com/anyproto/anytype-ts/releases/download/v0.39.1-alpha/Anytype-0.39.1-alpha.AppImage
+Download: https://github.com/anyproto/anytype-ts/releases/download/v0.39.10-alpha/Anytype-0.39.10-alpha.AppImage

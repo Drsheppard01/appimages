@@ -2,7 +2,7 @@
 title: "ente Photos"
 meta_title: ""
 description: "End-to-end encryption for photos and more."
-date: 2023-10-16T08:30:00Z
+date: 2024-01-29T08:49:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 author: "Ente"
@@ -18,4 +18,4 @@ Web page: https://ente.io/
 Source code: https://github.com/ente-io/photos-desktop
 
 Report the bug: https://github.com/ente-io/photos-desktop/issues/new/   
-Download: https://github.com/ente-io/ente/releases/download/v2.0.34-beta0/auth-linux-v2.0.34-beta0-x86_64.AppImage
+Download: https://github.com/ente-io/photos-desktop/releases/download/v1.6.63/ente-1.6.63-x86_64.AppImage

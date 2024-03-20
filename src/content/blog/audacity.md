@@ -2,7 +2,7 @@
 title: "Audacity"
 meta_title: ""
 description: "Easy-to-use, multi-track audio editor and recorder"
-date: 2023-10-16T22:52:00Z
+date: 2024-03-08T12:23:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 author: "Audacity Developer Team"
@@ -19,4 +19,4 @@ Source code: https://github.com/audacity/audacity
 
 Translate: https://explore.transifex.com/klyok/audacity/  
 Report the bug: https://github.com/audacity/audacity/issues/new/  
-Download: https://github.com/audacity/audacity/releases/download/Audacity-3.5.0-beta/audacity-linux-3.5.0-beta-x64.AppImage
+Download: https://github.com/audacity/audacity/releases/download/Audacity-3.5.0-beta-2/audacity-linux-3.5.0-beta-2-x64.AppImagee
