@@ -2,7 +2,7 @@
 title: "LibreCAD"
 meta_title: ""
 description: "LibreCAD is a 2D Computer Aided Design (CAD) application for creating plans and designs on your computer"
-date: 2024-03-08T13:56:00Z
+date: 2024-03-15T08:03:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 author: "LibreCAD Contributors"
@@ -20,4 +20,4 @@ Source code: https://github.com/LibreCAD/LibreCAD
 Donate: https://github.com/sponsors/LibreCAD  
 Translate: https://translate.librecad.org/  
 Report the bug: https://bugs.documentfoundation.org/  
-Download: https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-347-g6866f2db-x86_64.AppImage
+Download: https://github.com/LibreCAD/LibreCAD/releases/download/latest/LibreCAD-2.2.1_alpha-351-g82ab47a9-x86_64.AppImage

@@ -2,7 +2,7 @@
 title: "Hotspot"
 meta_title: ""
 description: "Linux perf GUI for performance analysis."
-date: 2023-12-21T06:13:00Z
+date: 2022-12-21T14:02:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
 author: "Klarälvdalens Datakonsult"

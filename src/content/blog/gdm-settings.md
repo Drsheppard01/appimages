@@ -2,7 +2,7 @@
 title: "GDM Settings"
 meta_title: ""
 description: "A settings app for GNOME's Login Manager, GDM"
-date: 2023-10-22T22:52:00Z
+date: 2024-02-28T21:09:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
 author: "Mazhar Hussain"

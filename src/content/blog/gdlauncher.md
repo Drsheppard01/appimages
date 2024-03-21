@@ -12,11 +12,8 @@ draft: false
 
 GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 
-License: GPL-3.0
+License: EULA
 
 Web page: https://gdlauncher.com/  
-Source code: https://github.com/gorilla-devs/GDLauncher/
 
-Donate: https://ko-fi.com/gdlauncher
-Report the bug: https://github.com/gorilla-devs/GDLauncher/issues/new/   
-Download: https://github.com/gorilla-devs/GDLauncher/releases/latest/download/GDLauncher-linux-setup.AppImage
+Download: https://cdn-raw.gdl.gg/launcher/GDLauncher__2.0.1__linux__x64.AppImage

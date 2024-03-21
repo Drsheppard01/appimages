@@ -2,7 +2,7 @@
 title: "Joplin"
 meta_title: ""
 description: "A post-modern modal text editor."
-date: 2024-03-08T13:45:00Z
+date: 2024-03-18T20:05:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 author: "Laurent Cozic"
@@ -20,4 +20,4 @@ Source code: https://github.com/laurent22/joplin
 Donate: https://github.com/sponsors/laurent22  
 Translate: https://joplinapp.org/help/dev/localisation/  
 Report the bug: https://github.com/laurent22/joplin/issues/new/  
-Download: https://github.com/laurent22/joplin/releases/download/v2.14.19/Joplin-2.14.19.AppImage
+Download: https://github.com/laurent22/joplin/releases/download/v2.14.20/Joplin-2.14.20.AppImage

@@ -2,7 +2,7 @@
 title: "Giada"
 meta_title: ""
 description: "Open source, minimalistic and hardcore music production tool"
-date: 2023-10-22T22:52:00Z
+date: 2024-02-26T20:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 author: "monocasual laboratories"

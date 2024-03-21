@@ -2,7 +2,7 @@
 title: "Icalingua++"
 meta_title: ""
 description: "A client for QQ and more"
-date: 2023-06-31T14:29:00Z
+date: 2024-01-24T14:58:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 author: "The Icalingua++ Authors"
