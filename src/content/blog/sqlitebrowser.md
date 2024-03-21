@@ -20,4 +20,4 @@ Source code: https://github.com/sqlitebrowser/sqlitebrowser
 Donate: https://patreon.com/db4s  
 Translate: https://github.com/sqlitebrowser/sqlitebrowser/wiki/Translations
 Report the bug: https://github.com/sqlitebrowser/sqlitebrowser/issues/new/  
-Download: https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLite-dev-76f954e-x86.64.AppImage
+Download: https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLCipher-dev-76f954e-x86.64.AppImage

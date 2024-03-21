@@ -1,7 +1,7 @@
 ---
 title: "Session"
 meta_title: ""
-description: "Session integrates directly with Oxen Service Nodes, which are a set of distributed, decentralized and Sybil resistant nodes."
+description: "Session Desktop - Onion routing based messenger."
 date: 2024-02-29T01:15:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
@@ -10,7 +10,7 @@ tags: ["official"]
 draft: false
 ---
 
-Session integrates directly with Oxen Service Nodes, which are a set of distributed, decentralized and Sybil resistant nodes
+Session Desktop - Onion routing based messenger
 
 License: GPL-3.0
 

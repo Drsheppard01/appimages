@@ -2,7 +2,7 @@
 title: "Saber"
 meta_title: ""
 description: "Cross-platform libre handwritten notes app"
-date: 2024-03-10T03:06:00Z
+date: 2024-03-14T05:37:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 author: "Adil Hanney"
@@ -20,4 +20,4 @@ Source code: https://github.com/saber-notes/saber/
 Donate: https://github.com/sponsors/adil192  
 Translate: https://github.com/saber-notes/saber?tab=readme-ov-file#translating  
 Report the bug: https://github.com/saber-notes/saber/issues/new/  
-Download: https://github.com/saber-notes/saber/releases/download/v0.21.1/Saber-0.21.1-x86_64.AppImage
+Download: https://github.com/saber-notes/saber/releases/download/v0.21.2/Saber-0.21.2-x86_64.AppImage

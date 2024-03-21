@@ -2,7 +2,7 @@
 title: "Sunshine"
 meta_title: ""
 description: "Self-hosted game stream host for Moonlight."
-date: 2024-03-04T14:36:00Z
+date: 2024-03-15T14:13:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 author: "LizardByte"
@@ -19,4 +19,4 @@ Source code: https://github.com/LizardByte/Sunshine
 
 Donate: https://github.com/sponsors/LizardByte  
 Report the bug: https://github.com/LizardByte/Sunshine/issues/new/  
-Download: https://github.com/LizardByte/Sunshine/releases/download/v0.22.0/sunshine.AppImage
+Download: https://github.com/LizardByte/Sunshine/releases/download/v0.22.2/sunshine.AppImage
