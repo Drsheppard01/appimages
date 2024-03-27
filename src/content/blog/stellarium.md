@@ -2,7 +2,7 @@
 title: "Stellarium"
 meta_title: ""
 description: "Stellarium is a free open source planetarium for your computer."
-date: 2023-12-23T14:43:00Z
+date: 2024-03-25T12:47:00Z
 image: "/images/image-placeholder.png"
 categories: ["Science"]
 author: "Stellarium contributors"
@@ -20,4 +20,4 @@ Source code: https://github.com/Stellarium/stellarium
 Donate: https://opencollective.com/stellarium  
 Translate: https://www.transifex.com/stellarium/stellarium/  
 Report the bug: https://github.com/Stellarium/stellarium/issues/new/  
-Download: https://github.com/Stellarium/stellarium/releases/download/v23.4/Stellarium-23.4-qt6-x86_64.AppImage
+Download: https://github.com/Stellarium/stellarium/releases/download/v24.1/Stellarium-24.1-qt6-x86_64.AppImage

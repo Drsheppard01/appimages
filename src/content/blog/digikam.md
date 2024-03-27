@@ -2,7 +2,7 @@
 title: "digiKam"
 meta_title: ""
 description: "Professional Photo Management with Power of Open Source"
-date: 2023-03-14T23:4100Z
+date: 2023-03-14T23:41:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 author: "digiKam Team"
