@@ -2,7 +2,7 @@
 title: "Miru"
 meta_title: ""
 description: "Stream anime torrents, real-time with no waiting for downloads"
-date: 2024-01-21T01:35:00Z
+date: 2024-03-24T11:37:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 author: "Cas"
@@ -20,4 +20,4 @@ Source code: https://github.com/ThaUnknown/miru
 Donate: https://github.com/sponsors/ThaUnknown  
 Translate: https://wiki.documentfoundation.org/Language  
 Report the bug: https://github.com/ThaUnknown/miru/issues/new  
-Download: https://github.com/ThaUnknown/miru/releases/download/v4.5.10/linux-Miru-4.5.10.AppImage
+Download: https://github.com/ThaUnknown/miru/releases/download/v5.0.2/linux-Miru-5.0.2.AppImage

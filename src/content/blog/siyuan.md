@@ -2,7 +2,7 @@
 title: "Siyuan"
 meta_title: ""
 description: "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
-date: 2023-03-19T04:35:00Z
+date: 2024-03-26T05:42:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 author: "Yunnan Liandi Technology"
@@ -19,4 +19,4 @@ Source code: https://github.com/siyuan-note/siyuan
 
 Donate: https://ld246.com/sponsor  
 Report the bug: https://github.com/siyuan-note/siyuan/issues/new   
-Download: https://github.com/siyuan-note/siyuan/releases/download/v3.0.4/siyuan-3.0.4-linux.AppImage
+Download: https://github.com/siyuan-note/siyuan/releases/download/v3.0.5/siyuan-3.0.5-linux.AppImage

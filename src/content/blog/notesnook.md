@@ -2,7 +2,7 @@
 title: "Notesnook"
 meta_title: ""
 description: "End-to-end encrypted note taking alternative to Evernote."
-date: 2023-10-16T22:52:00Z
+date: 2024-03-26T10:03:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
 author: "Streetwriters"
@@ -19,4 +19,4 @@ Source code: https://github.com/streetwriters/notesnook
 
 Donate: https://opencollective.com/notesnook
 Report the bug: https://github.com/streetwriters/notesnook/issues/new/  
-Download: https://github.com/streetwriters/notesnook/releases/download/v3.0.4-beta/notesnook_linux_x86_64.AppImage
+Download: https://github.com/streetwriters/notesnook/releases/download/v3.0.11-beta/notesnook_linux_x86_64.AppImage
