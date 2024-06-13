@@ -1,0 +1,22 @@
+---
+title: "Beekeeper Studio"
+meta_title: ""
+description: "Beekeeper Studio is a cross-platform SQL editor and database manager"
+date: 2024-04-05T23:39:00Z
+image: "/images/image-placeholder.png"
+categories: ["Development"]
+author: "Matthew Rathbone"
+tags: ["official"]
+draft: false
+---
+
+Beekeeper Studio is a cross-platform SQL editor and database manager
+
+License: GPL-3.0
+
+Web page: https://www.beekeeperstudio.io/  
+Source code: https://github.com/beekeeper-studio/beekeeper-studio  
+
+Donate: https://github.com/sponsors/beekeeper-studio  
+Report the bug: https://github.com/beekeeper-studio/beekeeper-studio/issues/new/  
+Download: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.2.9/Beekeeper-Studio-4.2.9.AppImage

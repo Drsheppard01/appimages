@@ -1,0 +1,55 @@
+---
+import config from "@/config/config.json";
+import dateFormat from "@/lib/utils/dateFormat";
+import { humanize, plainify, slugify } from "@/lib/utils/textConverter";
+import { Image } from "astro:assets";
+import { FaRegFolder, FaUser } from "react-icons/fa6";
+
+const {
+  summary_length,
+  blog_folder,
+}: { summary_length: number; blog_folder: string } = config.settings;
+const { data } = Astro.props;
+const { title, image, date, author, categories } = data.data;
+---
+
+<div class="bg-body dark:bg-darkmode-body">
+  {
+    image && (
+      <Image
+        class="mb-6 w-full rounded"
+        src={image}
+        alt={title}
+        width={150}
+        height={150}
+        format="webp"
+      />
+    )
+  }
+  <h4 class="mb-3">
+    <a href={`/${blog_folder}/${data.slug}`}>
+      {title}
+    </a>
+  </h4>
+  <ul class="mb-4">
+    <li class="mr-4 inline-block">
+      <a href={`/appimages/authors/${slugify(author)}`}>
+        <FaUser className={"mr-2 -mt-1 inline-block"} />
+        {humanize(author)}
+      </a>
+    </li>
+    <li class="mr-4 inline-block">
+      <FaRegFolder className={"mr-2 -mt-1 inline-block"} />
+      {
+        categories.map((category: string, index: number) => (
+          <a href={`/appimages/categories/${slugify(category)}`}>
+            {humanize(category)}
+            {index !== categories.length - 1 && ","}
+          </a>
+        ))
+      }
+    </li>
+    {date && <li class="inline-block">{dateFormat(date)}</li>}
+  </ul>
+  <p class="mb-6">{plainify(data.body?.slice(0, Number(summary_length)))}</p>
+</div>

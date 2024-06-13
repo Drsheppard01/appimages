@@ -1,0 +1,112 @@
+# To-do list
+
+- [ ] Fix pagination
+- [ ] Fix button "Download" link in main page
+- [ ] Fix card on main page
+- [ ] Short desc on main page
+- [ ] Fix link (why link uses previous link page?)
+- [ ] Fix all path like as drsheppard01.github.io/appimages
+- [ ] Transfer all content to apps/ instead blog
+- [ ] Create scrapers from github, package.json, etc for author, link and more used info
+- [ ] Make auto-generating author page
+- [ ] Better naming for site
+- [ ] Auto-updating
+
+# Add content list
+- [x] Ferdium + Author https://github.com/ferdium/ferdium-app/
+- [x] https://github.com/manuelernestog/weektododownload/v2.1.0/WeekToDo-2.1.0.AppImage
+- [x] Cider
+- [x] Cinelerra-GG
+- [x] Conky https://github.com/brndnmtthws/conky
+- [x] Converseen https://sourceforge.net/projects/converseen/files/Converseen/
+- [x] Cozy-drive ttps://github.com/cozy-labs/cozy-desktop/
+- [x] Czkawka https://github.com/qarmin/czkawkadownload/6.0.0/linux_czkawka_gui.AppImage
+- [x] Deckboard https://github.com/rivafarabi/deckboard
+- [x] deezer-desktop https://github.com/aunetx/deezer-linux
+- [x] https://github.com/jlambert360/FPM-AppImage/
+- [x] https://featherwallet.org/fileslinux-appimage/feather-2.4.9.AppImage
+- [x] https://github.com/jeffvli/feishin/
+- [x] Filen.io
+- [x] https://github.com/flacon/flacon/
+- [x] https://github.com/flareteam/flare-game/
+- [x] https://github.com/fontforge/fontforge
+- [x] https://github.com/enzo1982/freac
+- [x] https://github.com/tkashkin/GameHub
+- [x] https://github.com/gorilla-devs/GDLauncher
+- [x] https://github.com/shiftkey/desktop
+- [x] https://github.com/gyroflow/gyroflow
+- [x] https://github.com/vercel/hyper
+- [x] https://github.com/Icalingua-plus-plus/Icalingua-plus-plus
+- [x] https://github.com/WerWolv/ImHex
+- [x] https://github.com/jitsi/jitsi-meet-electron
+- [x] https://github.com/laurent22/joplin
+- [x] Kdenlive
+- [x] https://github.com/keepassxreboot/keepassxc
+- [x] https://github.com/kopia/kopia
+- [x] https://github.com/koreader/koreader
+- [x] https://github.com/ksnip/ksnip
+- [x] https://github.com/davidsmorais/kuro/releases
+- [x] https://github.com/leozide/leocad
+- [x] https://github.com/LibreCAD/LibreCAD/
+- [x] https://github.com/lostdesign/linked
+- [x] https://linphone.org/
+- [x] https://github.com/LMMS/lmms/
+- [x] https://github.com/mifi/lossless-cut/
+- [x] https://github.com/trevorsandy/lpub3d
+- [x] https://lunatask.app/
+- [x] https://github.com/myst6re/makoureactor/
+- [x] https://github.com/rolandbernard/marvin
+- [x] https://mendeley.com
+- [x] https://github.com/ThaUnknown/miru
+- [x] https://mochi.cards
+- [x] https://github.com/coslyk/moonplayer/releases
+- [x] https://github.com/Moosync/Moosync
+- [x] https://github.com/agalwood/Motrix
+- [x] https://github.com/emqx/MQTTX/
+- [x] https://github.com/muse-sequencer/muse/
+- [x] https://github.com/martpie/museeks
+- [x] https://github.com/musescore/MuseScore/
+- [x] https://github.com/mypaint/mypaint
+- [x] https://github.com/naev/naev
+- [x] https://github.com/neovim/neovim
+- [x] https://github.com/codelerity/netbeans-installers
+- [x] https://github.com/nextcloud-releases/desktop/
+- [x] https://github.com/Nheko-Reborn/nheko
+- [x] https://github.com/Lunarequest/NightPDF
+- [x] https://github.com/Sandakan/Nora
+- [x] https://github.com/nuttyartist/notes
+- [x] https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/
+- [x] https://github.com/nukeop/nuclear
+- [x] https://github.com/Syllo/nvtop/
+- [x] Onekey.app
+- [x] openscad.org/
+- [x] https://github.com/OpenShot/openshot-qt
+- [x] https://github.com/ppy/osu/
+- [x] https://github.com/ow-mods/ow-mod-man
+- [x] owncloud.com/
+- [x] https://github.com/padloc/padloc
+- [x] https://github.com/Rabbit-Company/Passky-Desktop
+- [x] https://github.com/GlitterWare/Passy
+- [x] https://github.com/pencil2d/pencil
+- [x] https://photoqt.org/
+- [x] https://github.com/HACKERALERT/Picocrypt
+- [x] https://purei.org/downloads/play/stable/0.62/Play!-97d971cb-x86_64.AppImage
+- [x] https://github.com/Barre/privaxy
+- [x] https://github.com/prateekmedia/pstube
+- [x] https://github.com/pydt/client
+- [x] https://github.com/pyfa-org/Pyfa/
+- [x] https://github.com/httpie/desktop
+- [x] https://github.com/story-apps/starc
+- [x] https://github.com/rustdesk/rustdesk/
+- [x] https://codeberg.org/Reckoner/app/
+- [ ] https://github.com/bambulab/BambuStudio/
+- [ ] https://github.com/prusa3d/PrusaSlicer
+- [x] https://github.com/siyuan-note/siyuan
+- [x] https://github.com/upscayl/upscayl
+- [x] https://github.com/staniel359/muffon
+- [x] https://github.com/AppFlowy-IO/AppFlowy
+- [x] https://github.com/s3drive/appimage-app
+- [x] https://github.com/modrinth/knossos
+- [x] https://github.com/mltframework/shotcut/releases/download/v24.01.28/shotcut-linux-x86_64-240128.AppImage
+- [x] https://github.com/jurplel/qView
+- [ ] https://github.com/xournalpp/xournalpp/releases/download/v1.2.2/xournalpp-1.2.2-x86_64.AppImage

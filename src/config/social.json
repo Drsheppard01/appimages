@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "github",
+      "icon": "FaGithub",
+      "link": "https://www.github.com/drsheppard01/appimages/"
+    },
+    {
+      "name": "rss",
+      "icon": "FaRss",
+      "link": "/appimages/"
+    }
+  ]
+}
