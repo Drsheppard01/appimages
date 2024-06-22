@@ -19,4 +19,5 @@ Source code: https://github.com/FilenCloudDienste/filen-desktop
 
 Translate: https://github.com/FilenCloudDienste/filen-desktop/tree/master/src/renderer/lib/i18n
 Report the bug: https://github.com/FilenCloudDienste/filen-desktop/issues/new/   
-Download: https://cdn.filen.io/desktop/release/filen_x86_64.AppImage
+Download:   x86_64: https://cdn.filen.io/desktop/release/filen_x86_64.AppImage
+            arm64: https://cdn.filen.io/desktop/release/filen_arm64.AppImage

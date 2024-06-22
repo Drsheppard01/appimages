@@ -1,22 +1,22 @@
 ---
-title: "OpenRGB"
+title: "Figma-Linux"
 meta_title: ""
-description: "Open source RGB lighting control that doesn't depend on manufacturer software"
-date: 2023-07-09T03:00:00Z
+description: "Figma is the first interface design tool based in the browser, making it easier for teams to create software"
+date: 2023-05-26T22:08:00Z
 image: "/images/image-placeholder.png"
-categories: ["System"]
-author: "Adam Honse"
+categories: ["Graphics"]
+author: "Roman Chugunov"
 tags: ["official"]
 draft: false
 ---
 
-Open source RGB lighting control that doesn't depend on manufacturer software
+Figma is the first interface design tool based in the browser, making it easier for teams to create software
 
 License: GPL-2.0
 
-Web page: https://openrgb.org  
 Source code: https://github.com/Figma-Linux/figma-linux
 
-Donate: https://patreon.com/CalcProgrammer1  
-Report the bug: https://gitlab.com/CalcProgrammer1/OpenRGB/-/issues/new    
-Download: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.3/figma-linux_0.11.3_linux_x86_64.AppImage
+Donate: https://www.buymeacoffee.com/U5hnMuASy 
+Report the bug: https://github.com/Figma-Linux/figma-linux/ssues/new    
+Download:   x86_64: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.4/figma-linux_0.11.4_linux_x86_64.AppImage
+            arm64: https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.4/figma-linux_0.11.4_linux_arm64.AppImage

@@ -18,4 +18,6 @@ Web page: https://kopia.io/
 Source code: https://github.com/kopia/kopia/desktop
 
 Report the bug: https://github.com/kopia/kopia/issues/new/  
-Download: https://github.com/kopia/kopia/releases/download/v0.17.0/KopiaUI-0.17.0.AppImage
+Download:   x86_64: https://github.com/kopia/kopia/releases/download/v0.17.0/KopiaUI-0.17.0.AppImage
+            arm64: https://github.com/kopia/kopia/releases/download/v0.17.0/KopiaUI-0.17.0-arm64.AppImage
+            armv7l: https://github.com/kopia/kopia/releases/download/v0.17.0/KopiaUI-0.17.0-armv7l.AppImage

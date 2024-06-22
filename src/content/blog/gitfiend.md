@@ -2,7 +2,7 @@
 title: "GitFiend"
 meta_title: ""
 description: "A Git client designed for humans."
-date: 2024-04-23T13:53:00Z
+date: 2023-11-19T13:53:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
 author: "Toby Suggate"
@@ -14,7 +14,8 @@ A Git client designed for humans
 
 License: Unknown
 
-Web page: https://gitfiend.com/overview  
+Web page: https://gitfiend.com/  
 
 Report the bug: https://github.com/GitFiend/Support/issues/new  
-Download: https://gitfiend.com/resources/GitFiend-0.44.3.AppImage
+Download:   x86_64: https://gitfiend.com/resources/GitFiend-0.44.3.AppImage
+            arm64: https://gitfiend.com/resources/GitFiend-0.44.3-arm64.AppImage

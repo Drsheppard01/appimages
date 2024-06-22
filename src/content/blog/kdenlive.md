@@ -2,7 +2,7 @@
 title: "Kdenlive"
 meta_title: ""
 description: "Free and Open Source Video Editor"
-date: 2024-03-27T17:16:00Z
+date: 2024-06-20T07:50:00Z
 image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
 author: "Kdenlive Team"
@@ -20,4 +20,4 @@ Source code: https://invent.kde.org/multimedia/kdenlive
 Donate: https://kdenlive.org/en/fund/  
 Translate: https://l10n.kde.org/  
 Report the bug: https://invent.kde.org/multimedia/kdenlive/-/issues/new  
-Download: https://download.kde.org/stable/kdenlive/24.02/linux/kdenlive-24.02.1-x86_64.AppImage
+Download: https://download.kde.org/stable/kdenlive/24.05/linux/kdenlive-24.05.1-x86_64.AppImage

@@ -18,4 +18,5 @@ Web page: https://librewolf.net
 Source code: https://codeberg.org/librewolf/source
 
 Report the bug: https://codeberg.org/librewolf/issues
-Download: https://gitlab.com/api/v4/projects/24386000/packages/generic/librewolf/125.0.3-1/LibreWolf.x86_64.AppImage
+Download:   x86_64: https://gitlab.com/api/v4/projects/24386000/packages/generic/librewolf/127.0-1/LibreWolf.x86_64.AppImage
+            arm64: https://gitlab.com/api/v4/projects/24386000/packages/generic/librewolf/127.0-1/LibreWolf.aarch64.AppImage
