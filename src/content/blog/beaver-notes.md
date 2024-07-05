@@ -20,4 +20,5 @@ Source code: https://github.com/Daniele-rolli/Beaver-Notes/
 Donate: https://ko-fi.com/danielerollibeavernotes  
 Translate: https://danieles-organization.gitbook.io/beaver-notes/dev-guides/translate-beaver  
 Report the bug: https://github.com/Daniele-rolli/Beaver-Notes/issues/new/  
-Download: https://github.com/Daniele-rolli/Beaver-Notes/releases/download/3.1.1/Beaver-notes-3.1.1.AppImage
+Download:   x86_64: https://github.com/Beaver-Notes/Beaver-Notes/releases/download/3.4.0/Beaver-notes-3.4.0.AppImage
+            arm64: https://github.com/Beaver-Notes/Beaver-Notes/releases/download/3.4.0/Beaver-notes-3.4.0-arm64.AppImage

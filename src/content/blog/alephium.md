@@ -2,7 +2,7 @@
 title: "Alephium"
 meta_title: ""
 description: "The official Alephium desktop wallet."
-date: 2023-06-06T14:52:00Z
+date: 2023-07-04T20:21:00Z
 image: "/images/image-placeholder.png"
 categories: ["Finance"]
 author: "Alephium Team"
@@ -18,4 +18,4 @@ Web page: https://alephium.org/
 Source code: https://github.com/alephium/alephium-frontend
 
 Report the bug: https://github.com/alephium/alephium-frontend/issues/new/  
-Download: https://github.com/alephium/alephium-frontend/releases/download/alephium-desktop-wallet%402.3.3/Alephium-2.3.3.AppImage
+Download: https://github.com/alephium/alephium-frontend/releases/download/alephium-desktop-wallet%402.3.6/Alephium-2.3.6.AppImage
