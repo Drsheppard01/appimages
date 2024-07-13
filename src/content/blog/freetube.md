@@ -2,7 +2,7 @@
 title: "FreeTube"
 meta_title: ""
 description: "FreeTube is an open source desktop YouTube player built with privacy in mind"
-date: 2024-06-21T00:31:00Z
+date: 2024-07-11T03:44:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
 author: "FreeTube Authors"
@@ -20,4 +20,4 @@ Source code: https://github.com/FreeTubeApp/FreeTube
 Donate: https://liberapay.com/FreeTube  
 Translate: https://hosted.weblate.org/engage/free-tube/  
 Report the bug: https://github.com/FreeTubeApp/FreeTube/issues/new/   
-Download: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.21.0-beta/freetube_0.21.0_amd64.AppImage
+Download: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.21.1-beta/freetube_0.21.1_amd64.AppImage
